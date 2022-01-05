@@ -3,7 +3,7 @@
   <header class="page-header">
     <h1>My Cart</h1>
   </header>
-
+<% if enhanced_cart.length > 0 %>
   <div class="panel panel-default items">
     <table class="table table-bordered">
       <thead>
@@ -48,5 +48,12 @@
       <% end %>
     </div>
   </div>
+  <% else %>
+  <p>Looks like your cart is empty!</p>
+  <a class="link-dark" href="/"   >
+  <button class="btn btn-light" >Home</button>
+</a>
+ 
+  <% end %>
 
 </section>
