@@ -1,3 +1,12 @@
+
+
+
+
+![image](https://user-images.githubusercontent.com/85530348/149224807-dc60a6fd-b646-42de-aea7-b13fe3053971.png)
+![image](https://user-images.githubusercontent.com/85530348/149224950-4c99a782-cce1-4053-b6d6-d33dec076dc6.png)
+![image](https://user-images.githubusercontent.com/85530348/149225008-660f2565-fc98-47fd-9deb-bb72e1194339.png)
+
+
 # Jungle
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
